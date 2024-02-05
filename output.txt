@@ -1,0 +1,27 @@
+enter the subject count: 6
+enter the name: hari krishnan
+--------enter subject name---------
+-----give only less than 6 subjects-----
+--------------------------------------------
+enter subject name: tamil
+enter subject mark: 35
+--------------------------------------------
+enter subject name: english
+enter subject mark: 62
+--------------------------------------------
+enter subject name: maths
+enter subject mark: 51
+--------------------------------------------
+enter subject name: physics
+enter subject mark: 49
+--------------------------------------------
+enter subject name: chemistry
+enter subject mark: 69
+--------------------------------------------
+enter subject name: computer science
+enter subject mark: 65
+331
+55.166666666666664 %
+['tamil', 'english', 'maths', 'physics', 'chemistry', 'computer science']
+[35, 62, 51, 49, 69, 65]
+your grade is "F"
